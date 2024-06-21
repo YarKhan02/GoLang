@@ -1,3 +1,5 @@
-module github.com/yarkhan02/GoLang
+module rest-api
 
 go 1.22.4
+
+require github.com/gorilla/mux v1.8.1
